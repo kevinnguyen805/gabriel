@@ -296,7 +296,8 @@ button:focus {
   .home_banner_area .banner_inner {
     width: 100%; }
     .home_banner_area .banner_inner .home_left_img {
-      padding-top: 195px; }
+      padding-top: 0px;
+ }
     .home_banner_area .banner_inner .col-lg-6 {
       vertical-align: middle;
       align-self: center; }
@@ -3085,3 +3086,12 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+#gabe-picture{
+  width:300px;
+  width:100%;
+}
+#gabe-logo{
+  /* border:1px solid red; */
+  width:50px;
+}
